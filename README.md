@@ -5,6 +5,7 @@
 
 - This can help you quickly start your new Go and Fiber web application.
 - Fiber and Go have been updated a lot since this was made.
+- There are some pretty gore patterns 😱 from my youth(excuse 😅) that should definitely not be used.
 - This repository still has useful configurations and code to get you started, but it's not a complete template that you can use without making changes.
 - For more up-to-date info please refer to [Gofiber Recipes](https://github.com/gofiber/recipes)
 
